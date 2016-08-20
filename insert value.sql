@@ -1,0 +1,1 @@
+INSERT INTO bank.`branch` VALUES('uttora','bank',458);
